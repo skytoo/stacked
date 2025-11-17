@@ -1,6 +1,6 @@
 name: stacked
 description: The framework to build testable, scalable and maintainable flutter apps
-version: 3.5.0
+version: 3.5.0+law
 homepage: https://github.com/FilledStacks/stacked
 platforms:
   android:
@@ -16,7 +16,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  get_it: ^8.2.0
+  get_it: ^9.0.5
   meta: ^1.16.0
   provider: ^6.1.5
   collection: ^1.19.1
